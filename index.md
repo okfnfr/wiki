@@ -30,27 +30,27 @@ Tout le monde peut rejoindre l'association en envoyant simplement un email à co
 Listes des membres actuels :
 <http://fr.okfn.org/notre-groupe-local/membres/>
 
-### Communication
+### Listes de discussion
 
-**Liste de discussion Open Knowledge France**
+**Liste de discussion publique Open Knowledge France**
 
 L'association possède une liste de discussion ouverte à tous :
 <https://lists.okfn.org/mailman/listinfo/okfn-fr> 253 membres
 (1/10/2017)
 
-**Liste de discussion des membres Open Knowledge France**
+**Liste de discussion membres Open Knowledge France**
 
 Les membres de l'association communique sur une liste de diffusion non publique
 <https://lists.okfn.org/mailman/admindb/okfn-fr-members> (private list)
 41 membres (1/10/2017)
 
-**Liste de discussion Open Knowledge Francophone**
+**Liste de discussion publique Open Knowledge Francophone**
 
 Open Knowledge France gère également une liste de discussion pour l'espace francophone :
 <https://lists.okfn.org/mailman/listinfo/okfn-francophone> 159 membres
 (1/10/2017)
 
-**Other lists on open data for French speakers:**
+**Autres listes pour francophones:**
 
 Open Data Francophone sur Facebook
 <https://www.facebook.com/groups/opendatafrancophone/> 44 membres
@@ -58,6 +58,13 @@ Open Data Francophone sur Facebook
 
 Open Data Francophone sur Linkedin
 <https://www.linkedin.com/groups/8313551> 95 membres (1/10/2017)
+
+### Les autres outils de communication
+
+** Conférences téléphonique **
+
+Nous utilisons le service gratuit d'OVH qui permet de réserver une ligne pendant 24h
+<https://www.ovh.com/conferences/>
 
 ### Les Projets
 
