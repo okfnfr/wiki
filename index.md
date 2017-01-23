@@ -61,7 +61,7 @@ Open Data Francophone sur Linkedin
 
 ### Les autres outils de communication
 
-** Conférences téléphonique **
+**Conférences téléphonique:**
 
 Nous utilisons le service gratuit d'OVH qui permet de réserver une ligne pendant 24h
 <https://www.ovh.com/conferences/>
